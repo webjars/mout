@@ -1,5 +1,5 @@
-WebJar for [Library]
+WebJar for mout
 
 More info: http://webjars.org
 
-Upstream: [Library URL]
+Upstream: http://moutjs.com/
