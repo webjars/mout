@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>mout</artifactId>
-    <version>0.5.0-SNAPSHOT</version>
+    <version>0.5.0</version>
     <name>mout</name>
     <description>WebJar for mout</description>
     <url>http://webjars.org</url>
@@ -36,7 +36,7 @@
         <url>http://github.com/webjars/mout</url>
         <connection>scm:git:https://github.com/webjars/mout.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/mout.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>mout-0.5.0</tag>
     </scm>
     
     <properties>
